@@ -2,7 +2,7 @@
 Artificial Intelligence (CSE3013) J Component
 ## 
 
-● We have used OpenCV for gathering the images from the webcam and feeding them into a Deep Learning model that will classify whether the driver’s eyes are ‘Open’ or ‘Closed’. The approach we will be using for the project is as follows:\
+● We have used OpenCV for gathering the images from the webcam and feeding them into a Deep Learning model that will classify whether the driver’s eyes are ‘Open’ or ‘Closed’. The approach we have used for the project is as follows:\
 	&emsp;&emsp;Step 1 – Take the image as input from a camera.\
 	&emsp;&emsp;Step 2 – Detect the face in the image and create a Region of Interest (ROI).\
 	&emsp;&emsp;Step 3 – Detect the eyes from ROI and feed them to the classifier.\
